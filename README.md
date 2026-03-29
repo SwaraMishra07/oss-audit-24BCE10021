@@ -54,21 +54,21 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 ## Requirements
 Ubuntu/Linux environment (WSL used in this project)
 Git installed
-# Notes
+### Notes
 
 All scripts are written in Bash and tested on Ubuntu using WSL. Each script demonstrates different shell scripting concepts such as variables, loops, conditionals, and file handling.
 
 
 ---
 
-## STEP 3: Save & exit
+### STEP 3: Save & exit
 
 - `CTRL + O` → Enter
 - `CTRL + X`
 
 ---
 
-##  STEP 4: Push updated README
+###  STEP 4: Push updated README
 
 ```bash
 git add README.md
