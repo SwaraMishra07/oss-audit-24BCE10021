@@ -40,7 +40,8 @@ Takes user input and generates a personalized open-source philosophy statement, 
 
 ### Step 1: Make scripts executable
 ```bash
-chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh```
+chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+ ```
 
 ### Step 2: Run scripts
 ```bash 
@@ -49,28 +50,29 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh```
 ./script3.sh
 ./script4.sh /var/log/syslog
 ./script5.sh
-bash```
+```
 ## Requirements
 Ubuntu/Linux environment (WSL used in this project)
 Git installed
-# Notes
+### Notes
 
 All scripts are written in Bash and tested on Ubuntu using WSL. Each script demonstrates different shell scripting concepts such as variables, loops, conditionals, and file handling.
 
 
 ---
 
-## STEP 3: Save & exit
+### STEP 3: Save & exit
 
 - `CTRL + O` → Enter
 - `CTRL + X`
 
 ---
 
-##  STEP 4: Push updated README
+###  STEP 4: Push updated README
 
 ```bash
 git add README.md
 git commit -m "Updated README with full project details"
 git push# oss-audit-24BCE10021
+```
 Open Source Audit project on Git with 5 Linux shell scripts demonstrating core OSS concepts.
