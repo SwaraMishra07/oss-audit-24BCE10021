@@ -48,7 +48,8 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh```
 ./script2.sh
 ./script3.sh
 ./script4.sh /var/log/syslog
-./script5.sh```
+./script5.sh
+bash```
 ## Requirements
 Ubuntu/Linux environment (WSL used in this project)
 Git installed
