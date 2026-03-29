@@ -40,13 +40,15 @@ Takes user input and generates a personalized open-source philosophy statement, 
 
 ### Step 1: Make scripts executable
 ```bash
-chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
+chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh```
+
 ### Step 2: Run scripts
+```bash 
 ./script1.sh
 ./script2.sh
 ./script3.sh
 ./script4.sh /var/log/syslog
-./script5.sh
+./script5.sh```
 ## Requirements
 Ubuntu/Linux environment (WSL used in this project)
 Git installed
@@ -59,12 +61,12 @@ All scripts are written in Bash and tested on Ubuntu using WSL. Each script demo
 
 ## STEP 3: Save & exit
 
-- `CTRL + O` → Enter  
+- `CTRL + O` → Enter
 - `CTRL + X`
 
 ---
 
-## ✅ STEP 4: Push updated README
+##  STEP 4: Push updated README
 
 ```bash
 git add README.md
